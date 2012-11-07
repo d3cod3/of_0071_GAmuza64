@@ -1,0 +1,16 @@
+GAmuza 0.399 "Silent Shore"
+-------------------- 
+http://www.gamuza.cc
+
+ Gamuza is a HYBRID LIVE CODING
+ Modular Application for interactive design
+ development&teaching
+ developed with	OpenFrameworks 007[with some tweaks]
+ +
+ various code[sometimes modified] from OF Community.
+
+ Idea&Development by Emanuele Mazza.
+
+COMPILING
+
+Follow the instruction here: http://gamuza.d3cod3.org/setup/linux/
